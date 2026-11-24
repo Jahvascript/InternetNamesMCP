@@ -394,3 +394,15 @@ Copyright (C) 2026 Nuclear Cyborg Corp
 ## License
 
 [MIT](license.md)
+
+---
+
+## JahvaScript Fork
+
+This repository is a fork of
+[drewster99/InternetNamesMCP](https://github.com/drewster99/InternetNamesMCP).
+
+Original author and license attribution are retained.
+
+See [JAHVASCRIPT.md](JAHVASCRIPT.md) for fork information,
+community standards, and future contribution details.
